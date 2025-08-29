@@ -197,8 +197,7 @@ docker compose up -d
 
 ---
 
-### ✅ You’re done
-
+## Notice
 * Old **v4.7.4** stack stopped/removed.
 * New Wazuh version installed on \**D:\** with certs and ports sorted.
 * Use the dashboard port shown by `docker ps` to log in.
